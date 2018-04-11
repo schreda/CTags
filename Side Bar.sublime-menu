@@ -1,6 +1,6 @@
 [
     {
-        "caption": "CTags: Rebuild Tags",
+        "caption": "Rebuild CTags",
         "command": "rebuild_tags",
         "args": {
             "dirs": [],
